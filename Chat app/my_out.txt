@@ -1,0 +1,20 @@
+MAIN: Started server
+MAIN: Listening for TCP connections on port: 1818
+MAIN: Listening for UDP datagrams on port: 1818
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Rick
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Rick
+MAIN: Sent ERROR (Already connected)
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Morty
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Rick
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Summer
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd WHO request
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGOUT request
+MAIN: Rcvd incoming UDP datagram from: 127.0.0.1
+MAIN: Rcvd LOGIN request for userid Summer
